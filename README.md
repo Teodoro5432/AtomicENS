@@ -120,4 +120,3 @@ All 236 #atomicENS combinations
 116Lv	Lv116
 117Ts	Ts117
 118Og	Og118
-	![image](https://user-images.githubusercontent.com/95543468/168416034-c5d633c1-f386-412b-914a-24a576226483.png)
